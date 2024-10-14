@@ -1,1 +1,2 @@
 # Multiple-Linear-Regression-Model
+In this project, I was asked to build a multiple linear regression model to predict the fare amount ( the cost of a cab trip) for a fictitious company called Automatidata.  Once the model was built, I was asked to interpret the results such as the coefficients in the equation describing the relationship between the independent variabes and the dependent variable. This project is part of the Advanced Data Analytics course by Google.
